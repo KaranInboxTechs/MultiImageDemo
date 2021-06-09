@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8033C</color>
+    <color name="colorPrimaryDark">#F1245E</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- App Color-->
+    <color name="pink_color">#F1245E</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="black_color">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="sky_blue_color">#1E8DED</color>
+    <color name="dark_grey">#A9A9A9</color>
+    <color name="green_color">#008F11</color>
+    <color name="black_semi_transparent">#AA000000</color>
+    <color name="light_grey_color">#f0efef</color>
+    <color name="cat_grey">#b6b6b6</color>
+    <color name="select_cat_color">#1E8DED</color>  <!-- select category calor-->
+
+    <!-- social media icon -->
+    <color name="phone_login_color">#FFD34F</color>
+    <color name="facebook_color">#6B9BDA</color>
+    <color name="google_color">#FA6759</color>
+    <color name="email_color">#75D8AB</color>
+    <color name="light_gray">#dfe9ed</color>
+
+    <color name="Grey">#c3c3c3 </color>
+    <color name="lightGrey">#f2f2f2</color>
+    <color name="mediumLightGrey">#d9d9d9</color>
+    <color name="darkGrey">#a6a6a6</color>
+
+
+    <color name="icActive">#FFFFFFFF</color>
+    <color name="icFocused">#DDFFFFFF</color>
+    <color name="icPressed">#AAFFFFFF</color>
+    <color name="image_border_color">#FCD3DE</color>
+</resources>
